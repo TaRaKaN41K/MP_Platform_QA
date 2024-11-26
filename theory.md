@@ -36,7 +36,7 @@ https://alexilins.github.io/is-even/
 
 
 ### UI
-![UI](/images/ui.png)
+![UI](/images/theory_task_photo/ui.png)
 
 ### Тесты
 
